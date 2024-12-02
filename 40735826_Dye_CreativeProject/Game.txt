@@ -1,0 +1,12 @@
+w 24 3
+9
+Golem 19 4 10
+Griffon 15 9 12
+Troll 11 4 10
+Griffon 15 9 12
+Phoenix 17 6 12
+Basilisk 12 6 12
+Goblin 8 8 12
+Wyvern 11 10 8
+Basilisk 12 6 12
+Griffon 15 9 12

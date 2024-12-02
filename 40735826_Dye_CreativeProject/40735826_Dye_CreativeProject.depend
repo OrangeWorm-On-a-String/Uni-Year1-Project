@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1728866928 source:c:\users\donni\onedrive\desktop\cmpg121 codeblocs\40735826_dye_creativeproject\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<memory>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<chrono>
+	<thread>
+	<tuple>
+	<numeric>
+	<math.h>
+
+1728868149 source:c:\users\donni\onedrive\desktop\creative project 40735826\40735826_dye_creativeproject\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<memory>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<chrono>
+	<thread>
+	<tuple>
+	<numeric>
+	<math.h>
+	<random>
+
